@@ -1,0 +1,23 @@
+{
+  "greeting": "Bonjour",
+  "name": "Alya",
+  "greetingText": "Aujourd'hui doit être la date la plus importante de l'année!",
+  "wishText": "Que tous les jours à venir jusqu'au prochain anniversaire soient remplis de beaucoup d'amour ;)",
+  "imagePath": "img/Alya.png",
+  "text1": "C'est ton anniversaire!!! :D",
+  "textInChatBox": "Joyeux anniversaire à toi!!",
+  "sendButtonLabel": "Send",
+  "text2": "Mais cela ne suffit pas",
+  "text3": "Parce que tu devrais savoir",
+  "text4": "Que tu es très",
+  "text4Adjective": "special",
+  "text5Entry": "Parce que",
+  "text5Content": "Tu es incroyable",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Joyeux anniversaire",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
